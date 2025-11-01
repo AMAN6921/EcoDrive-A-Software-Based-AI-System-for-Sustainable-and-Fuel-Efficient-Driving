@@ -12,7 +12,7 @@ Our AI-powered system detects vehicle density at intersections using **object de
 
 ---
 
-### ⚙️ Approach (Simplified)
+### ⚙️ Approach
 1. **Traffic Video Input**  
    - The system accepts real-time or recorded traffic footage.  
 
