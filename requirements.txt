@@ -1,2 +1,22 @@
+# Core dependencies
 opencv-python>=4.8.0
 numpy>=1.24.0
+pandas>=2.0.0
+
+# Deep Learning
+ultralytics>=8.0.0  # YOLOv8
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: Web interface
+flask>=2.3.0
+streamlit>=1.28.0
+
+# Utilities
+pillow>=10.0.0
+tqdm>=4.65.0
+pyyaml>=6.0

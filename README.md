@@ -46,13 +46,14 @@ F --> G[Feedback to Model for Continuous Learning]
 ### 💻 Tech Stack  
 | Category | Technologies Used |
 |-----------|-------------------|
-| **Programming Language** | Python |
-| **AI / ML Frameworks** | TensorFlow / PyTorch |
-| **Object Detection Models** | YOLOv8, MobileNet, OpenCV |
-| **Data Handling** | NumPy, Pandas |
+| **Programming Language** | Python 3.8+ |
+| **AI / ML Frameworks** | PyTorch, Ultralytics |
+| **Object Detection Models** | YOLOv8 (Nano/Small/Medium/Large) |
+| **Computer Vision** | OpenCV, NumPy |
+| **Data Handling** | Pandas, NumPy |
 | **Visualization & Analysis** | Matplotlib, Seaborn |
 | **Backend (optional)** | Flask / FastAPI for live feed processing |
-| **Deployment (optional)** | Docker / Streamlit Dashboard |
+| **Deployment (optional)** | Docker / ONNX Export |
 
 ---
 
@@ -60,18 +61,21 @@ F --> G[Feedback to Model for Continuous Learning]
 ```
 AI-Smart-Traffic/
 │
-├── data/                    # Traffic images or video samples
-├── models/                  # Pre-trained or trained detection models
-├── notebooks/               # Jupyter notebooks for experimentation
+├── data/                    # Traffic images or video samples (for training)
 ├── src/                     # Core Python scripts
-│   ├── detect.py            # Vehicle detection and counting
+│   ├── main.py              # Main system - run this!
+│   ├── yolo_detector.py     # YOLOv8 vehicle detection
 │   ├── optimize.py          # ML-based signal optimization
-│   ├── main.py              # Main program file
-│   └── utils.py             # Helper functions
+│   ├── analytics.py         # Data analysis and visualization
+│   ├── train_custom.py      # Custom model training
+│   ├── detect.py            # Basic OpenCV detection (demo)
+│   └── demo.py              # Simple demo script
 │
 ├── results/                 # Output visuals, analysis graphs
 ├── requirements.txt         # Dependencies
-└── README.md                # Project documentation
+├── README.md                # Project documentation
+├── SETUP.md                 # Detailed setup instructions
+└── optimization_history.json # Generated optimization logs
 ```
 
 ---
@@ -84,17 +88,53 @@ AI-Smart-Traffic/
 
 ---
 
+### 🎯 Current Features (Implemented)
+✅ **Real-time YOLOv8 vehicle detection** with 4 vehicle classes  
+✅ **Dynamic signal optimization** based on traffic density  
+✅ **Fuel and CO₂ savings estimation** for each cycle  
+✅ **Multi-model support** (nano to xlarge)  
+✅ **Video and webcam processing** with live visualization  
+✅ **Analytics dashboard** with charts and statistics  
+✅ **Custom model training** pipeline  
+✅ **Optimization history logging** for analysis  
+
+---
+
+### 🚀 Quick Start
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run with webcam
+cd src
+python main.py --source webcam
+
+# Run with video file
+python main.py --source traffic_video.mp4 --output result.mp4
+
+# Generate analytics
+python analytics.py
+```
+
+See [SETUP.md](SETUP.md) for detailed instructions.
+
+---
+
 ### 🚀 Future Enhancements  
-- Weather-aware and time-of-day adaptive optimization.  
-- Integration with **emergency vehicle priority routing**.  
-- Real-time **dashboard for traffic visualization**.  
-- Support for **multi-intersection synchronization**.  
+- Weather-aware and time-of-day adaptive optimization  
+- Integration with **emergency vehicle priority routing**  
+- Real-time **web dashboard for traffic visualization**  
+- Support for **multi-intersection synchronization**  
+- Mobile app integration  
+- Cloud deployment with API endpoints  
 
 ---
 
 ### ✍️ Research Scope  
 This project has significant potential for research in areas like:  
-- Sustainable AI for smart cities.  
-- Green computing in intelligent transportation systems.  
-- Multi-agent learning for traffic network optimization.  
-- CO₂ emission modeling using real-time vehicle data.  
+- Sustainable AI for smart cities  
+- Green computing in intelligent transportation systems  
+- Multi-agent learning for traffic network optimization  
+- CO₂ emission modeling using real-time vehicle data  
+- Edge computing for traffic management  
