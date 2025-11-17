@@ -1,0 +1,10 @@
+{
+  "train": {
+    "total_vehicles": 5640,
+    "images": 500
+  },
+  "val": {
+    "total_vehicles": 1124,
+    "images": 100
+  }
+}

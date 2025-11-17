@@ -76,8 +76,8 @@ def train_model(data_config: str,
         patience=20,  # Early stopping
         save=True,
         plots=True,
-        device='cuda:0',  # Use GPU if available
-        workers=8,
+        device='cpu',  # Use CPU (change to 'cuda:0' if GPU available)
+        workers=4,
         optimizer='Adam',
         lr0=0.01,
         lrf=0.01,

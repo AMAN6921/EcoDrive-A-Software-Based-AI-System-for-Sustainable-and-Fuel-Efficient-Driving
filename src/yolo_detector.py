@@ -21,19 +21,25 @@ class YOLOVehicleDetector:
         7: 'truck'
     }
     
-    def __init__(self, model_size: str = 'n', confidence: float = 0.5):
+    def __init__(self, model_size: str = 'n', confidence: float = 0.5, model_path: str = None):
         """
         Initialize YOLO detector
         
         Args:
             model_size: YOLOv8 model size ('n', 's', 'm', 'l', 'x')
             confidence: Confidence threshold for detections
+            model_path: Path to custom trained model (optional)
         """
         self.confidence = confidence
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         
-        print(f"🚀 Loading YOLOv8{model_size} model on {self.device}...")
-        self.model = YOLO(f'yolov8{model_size}.pt')
+        if model_path:
+            print(f"🚀 Loading custom model from {model_path} on {self.device}...")
+            self.model = YOLO(model_path)
+        else:
+            print(f"🚀 Loading YOLOv8{model_size} model on {self.device}...")
+            self.model = YOLO(f'yolov8{model_size}.pt')
+        
         self.model.to(self.device)
         print("✅ Model loaded successfully")
         

@@ -1,1201 +1,1201 @@
 {
   "history": [
     {
-      "timestamp": "2025-11-08T12:09:26.613223",
+      "timestamp": "2025-11-17T22:24:17.233307",
       "lane_id": "main",
       "vehicle_count": 3,
       "density_score": 0.15,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:26.780111",
+      "timestamp": "2025-11-17T22:24:17.382110",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.440946",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:26.839029",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:26.899501",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:26.959544",
-      "lane_id": "main",
-      "vehicle_count": 1,
-      "density_score": 0.05,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:27.032171",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:27.086419",
+      "timestamp": "2025-11-17T22:24:17.500624",
       "lane_id": "main",
       "vehicle_count": 3,
       "density_score": 0.15,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:27.150897",
+      "timestamp": "2025-11-17T22:24:17.560439",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.206504",
+      "timestamp": "2025-11-17T22:24:17.627118",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.262739",
+      "timestamp": "2025-11-17T22:24:17.690065",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.750771",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.810809",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.872879",
+      "lane_id": "main",
+      "vehicle_count": 1,
+      "density_score": 0.05,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.935078",
+      "lane_id": "main",
+      "vehicle_count": 1,
+      "density_score": 0.05,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:17.998587",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:18.052622",
       "lane_id": "main",
       "vehicle_count": 3,
       "density_score": 0.15,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:27.326771",
+      "timestamp": "2025-11-17T22:24:18.117468",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.391284",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:27.455021",
+      "timestamp": "2025-11-17T22:24:18.171445",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.519022",
+      "timestamp": "2025-11-17T22:24:18.235488",
       "lane_id": "main",
       "vehicle_count": 2,
       "density_score": 0.1,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.583228",
+      "timestamp": "2025-11-17T22:24:18.299535",
       "lane_id": "main",
       "vehicle_count": 2,
       "density_score": 0.1,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.639356",
+      "timestamp": "2025-11-17T22:24:18.355149",
       "lane_id": "main",
       "vehicle_count": 2,
       "density_score": 0.1,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.695250",
+      "timestamp": "2025-11-17T22:24:18.410238",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:18.475397",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:18.539218",
+      "lane_id": "main",
+      "vehicle_count": 2,
+      "density_score": 0.1,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:18.595776",
+      "lane_id": "main",
+      "vehicle_count": 1,
+      "density_score": 0.05,
+      "green_duration": 35
+    },
+    {
+      "timestamp": "2025-11-17T22:24:18.651091",
       "lane_id": "main",
       "vehicle_count": 3,
       "density_score": 0.15,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:27.759306",
-      "lane_id": "main",
-      "vehicle_count": 1,
-      "density_score": 0.05,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:27.813056",
+      "timestamp": "2025-11-17T22:24:18.715726",
       "lane_id": "main",
       "vehicle_count": 3,
       "density_score": 0.15,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:27.878127",
+      "timestamp": "2025-11-17T22:24:18.770344",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.941723",
+      "timestamp": "2025-11-17T22:24:18.834886",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:27.995774",
+      "timestamp": "2025-11-17T22:24:18.900004",
       "lane_id": "main",
       "vehicle_count": 2,
       "density_score": 0.1,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:28.059298",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.123838",
+      "timestamp": "2025-11-17T22:24:18.954489",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:28.178223",
-      "lane_id": "main",
-      "vehicle_count": 3,
-      "density_score": 0.15,
-      "green_duration": 40
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.232457",
-      "lane_id": "main",
-      "vehicle_count": 3,
-      "density_score": 0.15,
-      "green_duration": 40
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.287446",
+      "timestamp": "2025-11-17T22:24:19.019516",
       "lane_id": "main",
       "vehicle_count": 2,
       "density_score": 0.1,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:28.342400",
+      "timestamp": "2025-11-17T22:24:19.073552",
       "lane_id": "main",
       "vehicle_count": 1,
       "density_score": 0.05,
       "green_duration": 35
     },
     {
-      "timestamp": "2025-11-08T12:09:28.397347",
-      "lane_id": "main",
-      "vehicle_count": 2,
-      "density_score": 0.1,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.451462",
-      "lane_id": "main",
-      "vehicle_count": 1,
-      "density_score": 0.05,
-      "green_duration": 35
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.505376",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.559937",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.614698",
+      "timestamp": "2025-11-17T22:24:19.138210",
       "lane_id": "main",
       "vehicle_count": 4,
       "density_score": 0.2,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:28.669852",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.723445",
-      "lane_id": "main",
-      "vehicle_count": 4,
-      "density_score": 0.2,
-      "green_duration": 40
-    },
-    {
-      "timestamp": "2025-11-08T12:09:28.779335",
+      "timestamp": "2025-11-17T22:24:19.193296",
       "lane_id": "main",
       "vehicle_count": 8,
       "density_score": 0.4,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:28.834148",
+      "timestamp": "2025-11-17T22:24:19.249434",
       "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:28.890199",
+      "timestamp": "2025-11-17T22:24:19.306108",
       "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:28.947002",
+      "timestamp": "2025-11-17T22:24:19.361354",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:29.002988",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.056804",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.113368",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.169489",
+      "timestamp": "2025-11-17T22:24:19.416523",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:29.225383",
+      "timestamp": "2025-11-17T22:24:19.472964",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:19.527975",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:19.584776",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:29.280424",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.335894",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.400535",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.454100",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.517739",
+      "timestamp": "2025-11-17T22:24:19.640669",
       "lane_id": "main",
       "vehicle_count": 4,
       "density_score": 0.2,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:29.581986",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.645072",
+      "timestamp": "2025-11-17T22:24:19.697100",
       "lane_id": "main",
       "vehicle_count": 4,
       "density_score": 0.2,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:29.699496",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.753687",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.808684",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.862968",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:29.926990",
+      "timestamp": "2025-11-17T22:24:19.752132",
       "lane_id": "main",
       "vehicle_count": 8,
       "density_score": 0.4,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:29.982253",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:30.036843",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:30.091482",
+      "timestamp": "2025-11-17T22:24:19.808262",
       "lane_id": "main",
       "vehicle_count": 4,
       "density_score": 0.2,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:30.146743",
+      "timestamp": "2025-11-17T22:24:19.865471",
       "lane_id": "main",
       "vehicle_count": 7,
       "density_score": 0.35,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:30.202778",
+      "timestamp": "2025-11-17T22:24:19.921546",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:30.257784",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:30.312658",
-      "lane_id": "main",
-      "vehicle_count": 4,
-      "density_score": 0.2,
-      "green_duration": 40
-    },
-    {
-      "timestamp": "2025-11-08T12:09:30.368285",
+      "timestamp": "2025-11-17T22:24:19.976334",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:30.422208",
+      "timestamp": "2025-11-17T22:24:20.037925",
       "lane_id": "main",
       "vehicle_count": 8,
       "density_score": 0.4,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:30.483429",
+      "timestamp": "2025-11-17T22:24:20.093919",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.149690",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:30.545399",
+      "timestamp": "2025-11-17T22:24:20.205464",
       "lane_id": "main",
-      "vehicle_count": 4,
-      "density_score": 0.2,
-      "green_duration": 40
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:30.608055",
+      "timestamp": "2025-11-17T22:24:20.260107",
       "lane_id": "main",
-      "vehicle_count": 4,
-      "density_score": 0.2,
-      "green_duration": 40
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:30.669662",
-      "lane_id": "main",
-      "vehicle_count": 4,
-      "density_score": 0.2,
-      "green_duration": 40
-    },
-    {
-      "timestamp": "2025-11-08T12:09:30.732838",
+      "timestamp": "2025-11-17T22:24:20.315663",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:30.797597",
+      "timestamp": "2025-11-17T22:24:20.371548",
+      "lane_id": "main",
+      "vehicle_count": 6,
+      "density_score": 0.3,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.427816",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.482768",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.545595",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.606918",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.668111",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.731312",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.786084",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.840963",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.897788",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:20.955743",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.012163",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.068717",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.123003",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.178352",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.234734",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.290383",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.347296",
+      "lane_id": "main",
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.404172",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.460215",
       "lane_id": "main",
       "vehicle_count": 15,
       "density_score": 0.75,
       "green_duration": 75
     },
     {
-      "timestamp": "2025-11-08T12:09:30.862121",
+      "timestamp": "2025-11-17T22:24:21.522929",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.588447",
+      "lane_id": "main",
+      "vehicle_count": 15,
+      "density_score": 0.75,
+      "green_duration": 75
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.643853",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.707351",
       "lane_id": "main",
       "vehicle_count": 13,
       "density_score": 0.65,
       "green_duration": 70
     },
     {
-      "timestamp": "2025-11-08T12:09:30.926091",
+      "timestamp": "2025-11-17T22:24:21.772622",
+      "lane_id": "main",
+      "vehicle_count": 11,
+      "density_score": 0.55,
+      "green_duration": 65
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.826565",
+      "lane_id": "main",
+      "vehicle_count": 10,
+      "density_score": 0.5,
+      "green_duration": 60
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.891012",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:21.957051",
       "lane_id": "main",
       "vehicle_count": 13,
       "density_score": 0.65,
       "green_duration": 70
     },
     {
-      "timestamp": "2025-11-08T12:09:30.989940",
+      "timestamp": "2025-11-17T22:24:22.021799",
+      "lane_id": "main",
+      "vehicle_count": 9,
+      "density_score": 0.45,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:22.086394",
       "lane_id": "main",
       "vehicle_count": 11,
       "density_score": 0.55,
       "green_duration": 65
     },
     {
-      "timestamp": "2025-11-08T12:09:31.054167",
+      "timestamp": "2025-11-17T22:24:22.141866",
       "lane_id": "main",
-      "vehicle_count": 11,
-      "density_score": 0.55,
+      "vehicle_count": 12,
+      "density_score": 0.6,
       "green_duration": 65
     },
     {
-      "timestamp": "2025-11-08T12:09:31.108423",
+      "timestamp": "2025-11-17T22:24:22.198320",
       "lane_id": "main",
-      "vehicle_count": 9,
-      "density_score": 0.45,
-      "green_duration": 55
+      "vehicle_count": 12,
+      "density_score": 0.6,
+      "green_duration": 65
     },
     {
-      "timestamp": "2025-11-08T12:09:31.173226",
-      "lane_id": "main",
-      "vehicle_count": 15,
-      "density_score": 0.75,
-      "green_duration": 75
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.229366",
-      "lane_id": "main",
-      "vehicle_count": 14,
-      "density_score": 0.7,
-      "green_duration": 70
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.294362",
-      "lane_id": "main",
-      "vehicle_count": 14,
-      "density_score": 0.7,
-      "green_duration": 70
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.349212",
-      "lane_id": "main",
-      "vehicle_count": 9,
-      "density_score": 0.45,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.404654",
+      "timestamp": "2025-11-17T22:24:22.255034",
       "lane_id": "main",
       "vehicle_count": 15,
       "density_score": 0.75,
       "green_duration": 75
     },
     {
-      "timestamp": "2025-11-08T12:09:31.458372",
-      "lane_id": "main",
-      "vehicle_count": 9,
-      "density_score": 0.45,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.523329",
+      "timestamp": "2025-11-17T22:24:22.311945",
       "lane_id": "main",
       "vehicle_count": 10,
       "density_score": 0.5,
       "green_duration": 60
     },
     {
-      "timestamp": "2025-11-08T12:09:31.577456",
-      "lane_id": "main",
-      "vehicle_count": 11,
-      "density_score": 0.55,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.631411",
-      "lane_id": "main",
-      "vehicle_count": 11,
-      "density_score": 0.55,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.690575",
-      "lane_id": "main",
-      "vehicle_count": 12,
-      "density_score": 0.6,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.751315",
-      "lane_id": "main",
-      "vehicle_count": 10,
-      "density_score": 0.5,
-      "green_duration": 60
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.813499",
+      "timestamp": "2025-11-17T22:24:22.367461",
       "lane_id": "main",
       "vehicle_count": 15,
       "density_score": 0.75,
       "green_duration": 75
     },
     {
-      "timestamp": "2025-11-08T12:09:31.877535",
+      "timestamp": "2025-11-17T22:24:22.433295",
       "lane_id": "main",
-      "vehicle_count": 15,
-      "density_score": 0.75,
-      "green_duration": 75
+      "vehicle_count": 9,
+      "density_score": 0.45,
+      "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:31.932259",
-      "lane_id": "main",
-      "vehicle_count": 12,
-      "density_score": 0.6,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:31.987366",
-      "lane_id": "main",
-      "vehicle_count": 12,
-      "density_score": 0.6,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.042238",
-      "lane_id": "main",
-      "vehicle_count": 14,
-      "density_score": 0.7,
-      "green_duration": 70
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.107651",
+      "timestamp": "2025-11-17T22:24:22.490703",
       "lane_id": "main",
       "vehicle_count": 13,
       "density_score": 0.65,
       "green_duration": 70
     },
     {
-      "timestamp": "2025-11-08T12:09:32.163828",
-      "lane_id": "main",
-      "vehicle_count": 11,
-      "density_score": 0.55,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.220246",
+      "timestamp": "2025-11-17T22:24:22.548723",
       "lane_id": "main",
       "vehicle_count": 9,
       "density_score": 0.45,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:32.274902",
+      "timestamp": "2025-11-17T22:24:22.604030",
       "lane_id": "main",
-      "vehicle_count": 10,
-      "density_score": 0.5,
-      "green_duration": 60
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.329854",
-      "lane_id": "main",
-      "vehicle_count": 15,
-      "density_score": 0.75,
-      "green_duration": 75
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.393428",
-      "lane_id": "main",
-      "vehicle_count": 14,
-      "density_score": 0.7,
+      "vehicle_count": 13,
+      "density_score": 0.65,
       "green_duration": 70
     },
     {
-      "timestamp": "2025-11-08T12:09:32.456671",
-      "lane_id": "main",
-      "vehicle_count": 10,
-      "density_score": 0.5,
-      "green_duration": 60
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.522018",
-      "lane_id": "main",
-      "vehicle_count": 14,
-      "density_score": 0.7,
-      "green_duration": 70
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.586564",
-      "lane_id": "main",
-      "vehicle_count": 10,
-      "density_score": 0.5,
-      "green_duration": 60
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.642025",
-      "lane_id": "main",
-      "vehicle_count": 15,
-      "density_score": 0.75,
-      "green_duration": 75
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.707541",
-      "lane_id": "main",
-      "vehicle_count": 15,
-      "density_score": 0.75,
-      "green_duration": 75
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.761681",
-      "lane_id": "main",
-      "vehicle_count": 11,
-      "density_score": 0.55,
-      "green_duration": 65
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.816042",
-      "lane_id": "main",
-      "vehicle_count": 10,
-      "density_score": 0.5,
-      "green_duration": 60
-    },
-    {
-      "timestamp": "2025-11-08T12:09:32.870540",
+      "timestamp": "2025-11-17T22:24:22.659143",
       "lane_id": "main",
       "vehicle_count": 9,
       "density_score": 0.45,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:32.936000",
+      "timestamp": "2025-11-17T22:24:22.712831",
       "lane_id": "main",
       "vehicle_count": 11,
       "density_score": 0.55,
       "green_duration": 65
     },
     {
-      "timestamp": "2025-11-08T12:09:33.001242",
+      "timestamp": "2025-11-17T22:24:22.772599",
       "lane_id": "main",
       "vehicle_count": 10,
       "density_score": 0.5,
       "green_duration": 60
     },
     {
-      "timestamp": "2025-11-08T12:09:33.066037",
+      "timestamp": "2025-11-17T22:24:22.833559",
+      "lane_id": "main",
+      "vehicle_count": 15,
+      "density_score": 0.75,
+      "green_duration": 75
+    },
+    {
+      "timestamp": "2025-11-17T22:24:22.896695",
       "lane_id": "main",
       "vehicle_count": 10,
       "density_score": 0.5,
       "green_duration": 60
     },
     {
-      "timestamp": "2025-11-08T12:09:33.121239",
+      "timestamp": "2025-11-17T22:24:22.960223",
       "lane_id": "main",
       "vehicle_count": 10,
       "density_score": 0.5,
       "green_duration": 60
     },
     {
-      "timestamp": "2025-11-08T12:09:33.176686",
+      "timestamp": "2025-11-17T22:24:23.014943",
       "lane_id": "main",
-      "vehicle_count": 17,
-      "density_score": 0.85,
-      "green_duration": 80
+      "vehicle_count": 13,
+      "density_score": 0.65,
+      "green_duration": 70
     },
     {
-      "timestamp": "2025-11-08T12:09:33.232188",
+      "timestamp": "2025-11-17T22:24:23.069909",
+      "lane_id": "main",
+      "vehicle_count": 12,
+      "density_score": 0.6,
+      "green_duration": 65
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.135220",
+      "lane_id": "main",
+      "vehicle_count": 15,
+      "density_score": 0.75,
+      "green_duration": 75
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.198091",
+      "lane_id": "main",
+      "vehicle_count": 11,
+      "density_score": 0.55,
+      "green_duration": 65
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.258447",
+      "lane_id": "main",
+      "vehicle_count": 11,
+      "density_score": 0.55,
+      "green_duration": 65
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.322835",
+      "lane_id": "main",
+      "vehicle_count": 11,
+      "density_score": 0.55,
+      "green_duration": 65
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.388367",
+      "lane_id": "main",
+      "vehicle_count": 9,
+      "density_score": 0.45,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.442902",
+      "lane_id": "main",
+      "vehicle_count": 15,
+      "density_score": 0.75,
+      "green_duration": 75
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.506229",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.568053",
+      "lane_id": "main",
+      "vehicle_count": 9,
+      "density_score": 0.45,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.630884",
+      "lane_id": "main",
+      "vehicle_count": 14,
+      "density_score": 0.7,
+      "green_duration": 70
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.695828",
+      "lane_id": "main",
+      "vehicle_count": 15,
+      "density_score": 0.75,
+      "green_duration": 75
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.750899",
+      "lane_id": "main",
+      "vehicle_count": 9,
+      "density_score": 0.45,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:23.805403",
       "lane_id": "main",
       "vehicle_count": 19,
       "density_score": 0.95,
       "green_duration": 85
     },
     {
-      "timestamp": "2025-11-08T12:09:33.288993",
-      "lane_id": "main",
-      "vehicle_count": 24,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.345553",
+      "timestamp": "2025-11-17T22:24:23.859891",
       "lane_id": "main",
       "vehicle_count": 18,
       "density_score": 0.9,
       "green_duration": 85
     },
     {
-      "timestamp": "2025-11-08T12:09:33.409912",
-      "lane_id": "main",
-      "vehicle_count": 16,
-      "density_score": 0.8,
-      "green_duration": 80
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.464869",
-      "lane_id": "main",
-      "vehicle_count": 18,
-      "density_score": 0.9,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.519535",
-      "lane_id": "main",
-      "vehicle_count": 17,
-      "density_score": 0.85,
-      "green_duration": 80
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.581248",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.639925",
-      "lane_id": "main",
-      "vehicle_count": 24,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.699938",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.759347",
-      "lane_id": "main",
-      "vehicle_count": 22,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.818568",
-      "lane_id": "main",
-      "vehicle_count": 18,
-      "density_score": 0.9,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.878818",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:33.941139",
-      "lane_id": "main",
-      "vehicle_count": 24,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.005325",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.059801",
-      "lane_id": "main",
-      "vehicle_count": 18,
-      "density_score": 0.9,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.125274",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.180029",
-      "lane_id": "main",
-      "vehicle_count": 18,
-      "density_score": 0.9,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.235917",
-      "lane_id": "main",
-      "vehicle_count": 19,
-      "density_score": 0.95,
-      "green_duration": 85
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.292046",
+      "timestamp": "2025-11-17T22:24:23.923477",
       "lane_id": "main",
       "vehicle_count": 20,
       "density_score": 1.0,
       "green_duration": 90
     },
     {
-      "timestamp": "2025-11-08T12:09:34.347386",
+      "timestamp": "2025-11-17T22:24:23.988071",
       "lane_id": "main",
       "vehicle_count": 19,
       "density_score": 0.95,
       "green_duration": 85
     },
     {
-      "timestamp": "2025-11-08T12:09:34.402835",
-      "lane_id": "main",
-      "vehicle_count": 22,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.457961",
-      "lane_id": "main",
-      "vehicle_count": 16,
-      "density_score": 0.8,
-      "green_duration": 80
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.524198",
-      "lane_id": "main",
-      "vehicle_count": 20,
-      "density_score": 1.0,
-      "green_duration": 90
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.580962",
+      "timestamp": "2025-11-17T22:24:24.043199",
       "lane_id": "main",
       "vehicle_count": 24,
       "density_score": 1.0,
       "green_duration": 90
     },
     {
-      "timestamp": "2025-11-08T12:09:34.637449",
+      "timestamp": "2025-11-17T22:24:24.099415",
+      "lane_id": "main",
+      "vehicle_count": 16,
+      "density_score": 0.8,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.164820",
+      "lane_id": "main",
+      "vehicle_count": 24,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.221509",
+      "lane_id": "main",
+      "vehicle_count": 17,
+      "density_score": 0.85,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.277867",
+      "lane_id": "main",
+      "vehicle_count": 17,
+      "density_score": 0.85,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.333419",
+      "lane_id": "main",
+      "vehicle_count": 18,
+      "density_score": 0.9,
+      "green_duration": 85
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.397639",
       "lane_id": "main",
       "vehicle_count": 23,
       "density_score": 1.0,
       "green_duration": 90
     },
     {
-      "timestamp": "2025-11-08T12:09:34.693565",
+      "timestamp": "2025-11-17T22:24:24.462931",
       "lane_id": "main",
-      "vehicle_count": 23,
-      "density_score": 1.0,
-      "green_duration": 90
+      "vehicle_count": 17,
+      "density_score": 0.85,
+      "green_duration": 80
     },
     {
-      "timestamp": "2025-11-08T12:09:34.749223",
+      "timestamp": "2025-11-17T22:24:24.518671",
       "lane_id": "main",
       "vehicle_count": 21,
       "density_score": 1.0,
       "green_duration": 90
     },
     {
-      "timestamp": "2025-11-08T12:09:34.806127",
+      "timestamp": "2025-11-17T22:24:24.574588",
+      "lane_id": "main",
+      "vehicle_count": 23,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.629674",
+      "lane_id": "main",
+      "vehicle_count": 17,
+      "density_score": 0.85,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.694001",
+      "lane_id": "main",
+      "vehicle_count": 16,
+      "density_score": 0.8,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.757796",
+      "lane_id": "main",
+      "vehicle_count": 20,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.812871",
+      "lane_id": "main",
+      "vehicle_count": 20,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.867472",
+      "lane_id": "main",
+      "vehicle_count": 18,
+      "density_score": 0.9,
+      "green_duration": 85
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.932339",
+      "lane_id": "main",
+      "vehicle_count": 16,
+      "density_score": 0.8,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:24.986811",
+      "lane_id": "main",
+      "vehicle_count": 16,
+      "density_score": 0.8,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.051983",
       "lane_id": "main",
       "vehicle_count": 24,
       "density_score": 1.0,
       "green_duration": 90
     },
     {
-      "timestamp": "2025-11-08T12:09:34.861833",
+      "timestamp": "2025-11-17T22:24:25.117990",
+      "lane_id": "main",
+      "vehicle_count": 16,
+      "density_score": 0.8,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.174910",
+      "lane_id": "main",
+      "vehicle_count": 23,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.239696",
+      "lane_id": "main",
+      "vehicle_count": 23,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.294261",
+      "lane_id": "main",
+      "vehicle_count": 22,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.358918",
+      "lane_id": "main",
+      "vehicle_count": 17,
+      "density_score": 0.85,
+      "green_duration": 80
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.423660",
+      "lane_id": "main",
+      "vehicle_count": 23,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.478763",
+      "lane_id": "main",
+      "vehicle_count": 23,
+      "density_score": 1.0,
+      "green_duration": 90
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.535027",
       "lane_id": "main",
       "vehicle_count": 19,
       "density_score": 0.95,
       "green_duration": 85
     },
     {
-      "timestamp": "2025-11-08T12:09:34.917963",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:34.974028",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:35.029356",
-      "lane_id": "main",
-      "vehicle_count": 5,
-      "density_score": 0.25,
-      "green_duration": 45
-    },
-    {
-      "timestamp": "2025-11-08T12:09:35.085123",
+      "timestamp": "2025-11-17T22:24:25.589923",
       "lane_id": "main",
       "vehicle_count": 4,
       "density_score": 0.2,
       "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:35.139327",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:35.193643",
+      "timestamp": "2025-11-17T22:24:25.652326",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:35.248469",
+      "timestamp": "2025-11-17T22:24:25.714793",
       "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:35.303029",
+      "timestamp": "2025-11-17T22:24:25.778388",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:35.367686",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:35.421587",
+      "timestamp": "2025-11-17T22:24:25.843176",
       "lane_id": "main",
       "vehicle_count": 6,
       "density_score": 0.3,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:35.484542",
+      "timestamp": "2025-11-17T22:24:25.907680",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:25.964214",
       "lane_id": "main",
       "vehicle_count": 7,
       "density_score": 0.35,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:35.549332",
+      "timestamp": "2025-11-17T22:24:26.021301",
       "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:35.611936",
+      "timestamp": "2025-11-17T22:24:26.076980",
       "lane_id": "main",
       "vehicle_count": 7,
       "density_score": 0.35,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:35.666169",
+      "timestamp": "2025-11-17T22:24:26.132970",
       "lane_id": "main",
       "vehicle_count": 8,
       "density_score": 0.4,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:35.720308",
+      "timestamp": "2025-11-17T22:24:26.196966",
       "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
+      "vehicle_count": 6,
+      "density_score": 0.3,
+      "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:35.784255",
-      "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:35.840216",
+      "timestamp": "2025-11-17T22:24:26.260272",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:35.904115",
+      "timestamp": "2025-11-17T22:24:26.324251",
+      "lane_id": "main",
+      "vehicle_count": 6,
+      "density_score": 0.3,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.378474",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.443397",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.507587",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.569065",
       "lane_id": "main",
       "vehicle_count": 7,
       "density_score": 0.35,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:35.959738",
+      "timestamp": "2025-11-17T22:24:26.631248",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.694490",
+      "lane_id": "main",
+      "vehicle_count": 7,
+      "density_score": 0.35,
+      "green_duration": 50
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.758000",
+      "lane_id": "main",
+      "vehicle_count": 8,
+      "density_score": 0.4,
+      "green_duration": 55
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.821406",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:26.876943",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:36.015086",
-      "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:36.070653",
+      "timestamp": "2025-11-17T22:24:26.932745",
       "lane_id": "main",
       "vehicle_count": 5,
       "density_score": 0.25,
       "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:36.127598",
+      "timestamp": "2025-11-17T22:24:26.989038",
       "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:36.182570",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:36.238290",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
-    },
-    {
-      "timestamp": "2025-11-08T12:09:36.293682",
+      "timestamp": "2025-11-17T22:24:27.055285",
       "lane_id": "main",
       "vehicle_count": 7,
       "density_score": 0.35,
       "green_duration": 50
     },
     {
-      "timestamp": "2025-11-08T12:09:36.349359",
+      "timestamp": "2025-11-17T22:24:27.111018",
       "lane_id": "main",
-      "vehicle_count": 7,
-      "density_score": 0.35,
-      "green_duration": 50
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
     },
     {
-      "timestamp": "2025-11-08T12:09:36.404405",
+      "timestamp": "2025-11-17T22:24:27.166699",
+      "lane_id": "main",
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
+    },
+    {
+      "timestamp": "2025-11-17T22:24:27.221950",
       "lane_id": "main",
       "vehicle_count": 8,
       "density_score": 0.4,
       "green_duration": 55
     },
     {
-      "timestamp": "2025-11-08T12:09:36.460093",
+      "timestamp": "2025-11-17T22:24:27.276492",
       "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
+      "vehicle_count": 4,
+      "density_score": 0.2,
+      "green_duration": 40
     },
     {
-      "timestamp": "2025-11-08T12:09:36.515166",
+      "timestamp": "2025-11-17T22:24:27.332630",
       "lane_id": "main",
-      "vehicle_count": 8,
-      "density_score": 0.4,
-      "green_duration": 55
-    },
-    {
-      "timestamp": "2025-11-08T12:09:36.579346",
-      "lane_id": "main",
-      "vehicle_count": 6,
-      "density_score": 0.3,
-      "green_duration": 50
+      "vehicle_count": 5,
+      "density_score": 0.25,
+      "green_duration": 45
     }
   ],
   "statistics": {
     "total_decisions": 170,
-    "avg_green_time": 57.0,
+    "avg_green_time": 56.6,
     "min_green_time": 35,
     "max_green_time": 90,
-    "avg_vehicle_count": 9.2
+    "avg_vehicle_count": 9.1
   }
 }

@@ -78,9 +78,15 @@ def run_synthetic_demo():
     print("\nGenerating synthetic traffic scenarios...")
     print("This demo doesn't require a camera or video file!\n")
     
-    # Initialize system
-    print("📥 Loading AI model...")
-    detector = YOLOVehicleDetector(model_size='n', confidence=0.3)
+    # Initialize system with custom trained model
+    print("📥 Loading custom trained AI model...")
+    custom_model_path = 'runs/detect/traffic_model/weights/best.pt'
+    if Path(custom_model_path).exists():
+        print(f"✨ Using custom trained model: {custom_model_path}")
+        detector = YOLOVehicleDetector(model_path=custom_model_path, confidence=0.3)
+    else:
+        print("⚠️  Custom model not found, using default YOLOv8n")
+        detector = YOLOVehicleDetector(model_size='n', confidence=0.3)
     optimizer = TrafficSignalOptimizer()
     
     # Traffic scenarios
